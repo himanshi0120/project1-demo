@@ -1,4 +1,4 @@
 # project1-demo
 This is my first Git Repository.
 <br>
-Author - Himanshi Rawat
+Author - Himanshi Rawatt
